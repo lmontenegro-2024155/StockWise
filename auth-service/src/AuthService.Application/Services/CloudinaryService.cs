@@ -33,16 +33,16 @@ public class CloudinaryService(IConfiguration configuration) : ICloudinaryServic
 
     public string GetDefaultAvatarUrl()
     {
-        var defaultPath = configuration["clodinarySettings:DefaultAvatarPath"] ?? "Restaurante_vnxj5o.png";
+        var defaultPath = configuration["CloudinarySettings:DefaultAvatarPath"] ?? "StockWise_default.png";
         if (defaultPath.Contains('/')) return defaultPath.Split('/').Last();
         return defaultPath;
     }
 
     public string GetFullImageUrl(string imagePath)
     {
-        var baseUrl = configuration["clodinarySettings:BaseURL"] ?? "https://res.cloudinary.com/dbjg9o5oj/image/upload/v1771477196";
-        var folder = configuration["clodinarySettings:Folder"] ?? "CanelaUrbana/profiles";
-        var defaultPath = configuration["clodinarySettings:DefaultAvatarPath"] ?? "Restaurante_vnxj5o.png";
+        var baseUrl = configuration["CloudinarySettings:BaseUrl"] ?? "https://res.cloudinary.com/dbjg9o5oj/image/upload/v1771477196";
+        var folder = configuration["CloudinarySettings:Folder"] ?? "StockWise/profiles";
+        var defaultPath = configuration["CloudinarySettings:DefaultAvatarPath"] ?? "StockWise_default.png";
 
         var pathToUse = string.IsNullOrEmpty(imagePath) ? defaultPath : imagePath;
         if (!pathToUse.Contains('/')) pathToUse = $"{folder}/{pathToUse}";
@@ -55,7 +55,7 @@ public class CloudinaryService(IConfiguration configuration) : ICloudinaryServic
         try
         {
             using var stream = new MemoryStream(imageFile.Data);
-            var folder = configuration["CloudinarySettings:Folder"] ?? "CanelaUrbana/profiles";
+            var folder = configuration["CloudinarySettings:Folder"] ?? "StockWise/profiles";
 
             var uploadParams = new ImageUploadParams
             {
