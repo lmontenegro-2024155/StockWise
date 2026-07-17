@@ -1,0 +1,97 @@
+/home/brau-dev/Documentos/Documentos 2026/IN6AV/Kinal Sports/authentication-service/auth-service/src/AuthService.Domain/bin/Debug/net8.0/AuthService.Domain.deps.json
+/home/brau-dev/Documentos/Documentos 2026/IN6AV/Kinal Sports/authentication-service/auth-service/src/AuthService.Domain/bin/Debug/net8.0/AuthService.Domain.dll
+/home/brau-dev/Documentos/Documentos 2026/IN6AV/Kinal Sports/authentication-service/auth-service/src/AuthService.Domain/bin/Debug/net8.0/AuthService.Domain.pdb
+/home/brau-dev/Documentos/Documentos 2026/IN6AV/Kinal Sports/authentication-service/auth-service/src/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/brau-dev/Documentos/Documentos 2026/IN6AV/Kinal Sports/authentication-service/auth-service/src/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.AssemblyInfoInputs.cache
+/home/brau-dev/Documentos/Documentos 2026/IN6AV/Kinal Sports/authentication-service/auth-service/src/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.AssemblyInfo.cs
+/home/brau-dev/Documentos/Documentos 2026/IN6AV/Kinal Sports/authentication-service/auth-service/src/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.csproj.CoreCompileInputs.cache
+/home/brau-dev/Documentos/Documentos 2026/IN6AV/Kinal Sports/authentication-service/auth-service/src/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.dll
+/home/brau-dev/Documentos/Documentos 2026/IN6AV/Kinal Sports/authentication-service/auth-service/src/AuthService.Domain/obj/Debug/net8.0/refint/AuthService.Domain.dll
+/home/brau-dev/Documentos/Documentos 2026/IN6AV/Kinal Sports/authentication-service/auth-service/src/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.pdb
+/home/brau-dev/Documentos/Documentos 2026/IN6AV/Kinal Sports/authentication-service/auth-service/src/AuthService.Domain/obj/Debug/net8.0/ref/AuthService.Domain.dll
+C:\Users\Informatica\Documents\2024242\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informatica\Documents\2024242\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfoInputs.cache
+C:\Users\Informatica\Documents\2024242\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfo.cs
+C:\Users\Informatica\Documents\2024242\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Documents\2024242\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Informatica\Documents\2024242\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\refint\AuthService.Domain.dll
+C:\Users\Informatica\Documents\2024242\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Informatica\Documents\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.deps.json
+C:\Users\Informatica\Documents\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Informatica\Documents\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Informatica\Documents\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informatica\Documents\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfoInputs.cache
+C:\Users\Informatica\Documents\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfo.cs
+C:\Users\Informatica\Documents\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Documents\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Informatica\Documents\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\refint\AuthService.Domain.dll
+C:\Users\Informatica\Documents\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Informatica\Documents\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\ref\AuthService.Domain.dll
+C:\Users\Informatica\Documents\IN6AV\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.deps.json
+C:\Users\Informatica\Documents\IN6AV\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Informatica\Documents\IN6AV\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Informatica\Documents\IN6AV\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informatica\Documents\IN6AV\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfoInputs.cache
+C:\Users\Informatica\Documents\IN6AV\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfo.cs
+C:\Users\Informatica\Documents\IN6AV\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Documents\IN6AV\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Informatica\Documents\IN6AV\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\refint\AuthService.Domain.dll
+C:\Users\Informatica\Documents\IN6AV\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Informatica\Documents\IN6AV\Kinal Sports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\ref\AuthService.Domain.dll
+C:\Users\Gahel\Desktop\Proyecto restaurante\Canela Urbana\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.deps.json
+C:\Users\Gahel\Desktop\Proyecto restaurante\Canela Urbana\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Gahel\Desktop\Proyecto restaurante\Canela Urbana\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Gahel\Desktop\Proyecto restaurante\Canela Urbana\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gahel\Desktop\Proyecto restaurante\Canela Urbana\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfoInputs.cache
+C:\Users\Gahel\Desktop\Proyecto restaurante\Canela Urbana\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfo.cs
+C:\Users\Gahel\Desktop\Proyecto restaurante\Canela Urbana\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gahel\Desktop\Proyecto restaurante\Canela Urbana\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Gahel\Desktop\Proyecto restaurante\Canela Urbana\auth-service\src\AuthService.Domain\obj\Debug\net8.0\refint\AuthService.Domain.dll
+C:\Users\Gahel\Desktop\Proyecto restaurante\Canela Urbana\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Gahel\Desktop\Proyecto restaurante\Canela Urbana\auth-service\src\AuthService.Domain\obj\Debug\net8.0\ref\AuthService.Domain.dll
+C:\Users\Gahel\Desktop\RestauranteCanela-main\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.deps.json
+C:\Users\Gahel\Desktop\RestauranteCanela-main\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Gahel\Desktop\RestauranteCanela-main\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Gahel\Desktop\RestauranteCanela-main\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gahel\Desktop\RestauranteCanela-main\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfoInputs.cache
+C:\Users\Gahel\Desktop\RestauranteCanela-main\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfo.cs
+C:\Users\Gahel\Desktop\RestauranteCanela-main\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gahel\Desktop\RestauranteCanela-main\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Gahel\Desktop\RestauranteCanela-main\auth-service\src\AuthService.Domain\obj\Debug\net8.0\refint\AuthService.Domain.dll
+C:\Users\Gahel\Desktop\RestauranteCanela-main\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Gahel\Desktop\RestauranteCanela-main\auth-service\src\AuthService.Domain\obj\Debug\net8.0\ref\AuthService.Domain.dll
+C:\Users\Gahel\Desktop\RestauranteCanela\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.deps.json
+C:\Users\Gahel\Desktop\RestauranteCanela\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Gahel\Desktop\RestauranteCanela\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Gahel\Desktop\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gahel\Desktop\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfoInputs.cache
+C:\Users\Gahel\Desktop\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfo.cs
+C:\Users\Gahel\Desktop\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gahel\Desktop\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.sourcelink.json
+C:\Users\Gahel\Desktop\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Gahel\Desktop\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\refint\AuthService.Domain.dll
+C:\Users\Gahel\Desktop\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Gahel\Desktop\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\ref\AuthService.Domain.dll
+C:\Users\Gahel\Documents\RestauranteCanela\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.deps.json
+C:\Users\Gahel\Documents\RestauranteCanela\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Gahel\Documents\RestauranteCanela\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Gahel\Documents\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gahel\Documents\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfoInputs.cache
+C:\Users\Gahel\Documents\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfo.cs
+C:\Users\Gahel\Documents\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gahel\Documents\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.sourcelink.json
+C:\Users\Gahel\Documents\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Gahel\Documents\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\refint\AuthService.Domain.dll
+C:\Users\Gahel\Documents\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Gahel\Documents\RestauranteCanela\auth-service\src\AuthService.Domain\obj\Debug\net8.0\ref\AuthService.Domain.dll
+C:\Users\Informatica\Desktop\Sistema de inventario\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.deps.json
+C:\Users\Informatica\Desktop\Sistema de inventario\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Informatica\Desktop\Sistema de inventario\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Informatica\Desktop\Sistema de inventario\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informatica\Desktop\Sistema de inventario\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfoInputs.cache
+C:\Users\Informatica\Desktop\Sistema de inventario\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfo.cs
+C:\Users\Informatica\Desktop\Sistema de inventario\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\Sistema de inventario\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.dll
+C:\Users\Informatica\Desktop\Sistema de inventario\auth-service\src\AuthService.Domain\obj\Debug\net8.0\refint\AuthService.Domain.dll
+C:\Users\Informatica\Desktop\Sistema de inventario\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.pdb
+C:\Users\Informatica\Desktop\Sistema de inventario\auth-service\src\AuthService.Domain\obj\Debug\net8.0\ref\AuthService.Domain.dll
