@@ -1,4 +1,5 @@
 var builder = WebApplication.CreateBuilder(args);
+builder.WebHost.UseUrls("http://0.0.0.0:5302");
 var app = builder.Build();
 
 app.MapGet("/api/v1/service-b/health", () => Results.Ok(new { status = "ok", service = "service-b" }));

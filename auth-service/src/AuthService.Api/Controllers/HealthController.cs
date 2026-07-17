@@ -6,7 +6,7 @@ namespace AuthService.Api.Controllers;
 [Route("api/v1/[controller]")]
 public class HealthController : ControllerBase
 {
-    private const string ServiceName = "Canela Urbana AuthService";
+    private const string ServiceName = "StockWise AuthService";
 
     [HttpGet]
     public ActionResult<object> GetHealth()
