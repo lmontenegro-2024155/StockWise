@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GxWzCbft5m5rB6pmXPzzldAC5+rQvNzZ8AiQbPLWZfc=",
+  "Source": "ServiceB.Api",
+  "BasePath": "_content/ServiceB.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Informatica\\Desktop\\Sistema de inventario\\services\\service-a\\ServiceA.Api\\ServiceA.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Informatica\\Downloads\\StockWise\\services\\service-a\\ServiceA.Api\\ServiceA.Api.csproj",
       "projectName": "ServiceA.Api",
-      "projectPath": "c:\\Users\\Informatica\\Desktop\\Sistema de inventario\\services\\service-a\\ServiceA.Api\\ServiceA.Api.csproj",
+      "projectPath": "C:\\Users\\Informatica\\Downloads\\StockWise\\services\\service-a\\ServiceA.Api\\ServiceA.Api.csproj",
       "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Informatica\\Desktop\\Sistema de inventario\\services\\service-a\\ServiceA.Api\\obj\\",
+      "outputPath": "C:\\Users\\Informatica\\Downloads\\StockWise\\services\\service-a\\ServiceA.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config"
