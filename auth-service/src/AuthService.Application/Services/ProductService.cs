@@ -24,7 +24,7 @@ public class ProductService(IProductRepository productRepository) : IProductServ
     {
         var product = new Product
         {
-            Id = UuidGenerator.GenerateUserId(),
+            Id = UuidGenerator.GenerateProductId(),
             Name = dto.Name,
             Description = dto.Description,
             Price = dto.Price,
@@ -34,6 +34,37 @@ public class ProductService(IProductRepository productRepository) : IProductServ
 
         var created = await productRepository.CreateAsync(product);
         return MapToResponse(created);
+    }
+
+    public async Task<ProductResponseDto?> UpdateAsync(string id, UpdateProductDto dto)
+    {
+        var existing = await productRepository.GetByIdAsync(id);
+        if (existing is null)
+            return null;
+
+        existing.Name = dto.Name;
+        existing.Description = dto.Description;
+        existing.Price = dto.Price;
+        existing.Stock = dto.Stock;
+        existing.IsActive = dto.IsActive;
+        existing.UpdatedAt = DateTime.UtcNow;
+
+        var updated = await productRepository.UpdateAsync(existing);
+        return updated is null ? null : MapToResponse(updated);
+    }
+
+    public async Task<bool> DeleteAsync(string id)
+    {
+        return await productRepository.DeleteAsync(id);
+    }
+
+    public async Task<IReadOnlyList<ProductResponseDto>> GetLowStockAsync(int threshold)
+    {
+        var products = await productRepository.GetAllAsync();
+        return products
+            .Where(p => p.Stock <= threshold)
+            .Select(MapToResponse)
+            .ToList();
     }
 
     private static ProductResponseDto MapToResponse(Product product) => new()
