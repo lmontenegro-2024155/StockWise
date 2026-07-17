@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background: #f7f7f7;
+  color: #222;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
+
+input {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
