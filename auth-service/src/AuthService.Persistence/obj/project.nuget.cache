@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q08PbM84knA=",
+  "dgSpecHash": "aJ0guQuPFGI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Informatica\\Downloads\\StockWise\\auth-service\\src\\AuthService.Persistence\\AuthService.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Informatica\\Documents\\StockWise\\auth-service\\src\\AuthService.Persistence\\AuthService.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Informatica\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Informatica\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

@@ -3,13 +3,20 @@
   "private": true,
   "version": "1.0.0",
   "description": "Monorepo inicial para el sprint 1 del sistema de inventario",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
   "scripts": {
-    "dev:frontend": "pnpm --dir frontend run dev",
-    "dev:auth": "dotnet run --project auth-service/src/AuthService.Api/AuthService.Api.csproj",
-    "dev:service-a": "dotnet run --project services/service-a/ServiceA.Api/ServiceA.Api.csproj",
-    "dev:service-b": "dotnet run --project services/service-b/ServiceB.Api/ServiceB.Api.csproj"
+    "dev:frontend": "cd frontend && pnpm run dev",
+    "dev:auth": "cd auth-service && pnpm exec node server.js",
+    "dev:service-a": "cd services/service-a && pnpm exec node server.js",
+    "dev:service-b": "cd services/service-b && pnpm exec node server.js",
+    "dev:all": "pnpm exec concurrently \"cd auth-service && pnpm exec node server.js\" \"cd services/service-a && pnpm exec node server.js\" \"cd services/service-b && pnpm exec node server.js\" \"cd frontend && pnpm run dev\""
   },
   "workspaces": [
-    "frontend"
+    "frontend",
+    "auth-service",
+    "services/service-a",
+    "services/service-b"
   ]
 }
