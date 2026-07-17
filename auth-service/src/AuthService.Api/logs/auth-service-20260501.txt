@@ -1,0 +1,32 @@
+[2026-05-01 23:21:30 INF] Verificando conexión a la base de datos... {"SourceContext":"Program"}
+[2026-05-01 23:21:36 ERR] Ocurrió un error al inicializar la base de datos {"SourceContext":"Program"}
+Npgsql.NpgsqlException (0x80004005): Failed to connect to 127.0.0.1:5436
+ ---> System.Net.Sockets.SocketException (10061): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync(Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.ConnectAsync(NpgsqlTimeout timeout, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.ConnectAsync(NpgsqlTimeout timeout, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|214_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.UnpooledDataSource.Get(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|42_0(Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlDatabaseCreator.Exists(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlDatabaseCreator.Exists(Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabaseCreator.EnsureCreatedAsync(CancellationToken cancellationToken)
+   at Program.<Main>$(String[] args) in C:\Users\Gahel\Desktop\RestauranteCanela-main\auth-service\src\AuthService.Api\Program.cs:line 131
+[2026-05-01 23:26:30 INF] Verificando conexión a la base de datos... {"SourceContext":"Program"}
+[2026-05-01 23:26:32 INF] Base de datos lista. Ejecutando datos semilla... {"SourceContext":"Program"}
+[2026-05-01 23:26:33 INF] Inicialización de base de datos completada exitosamente {"SourceContext":"Program"}
+[2026-05-01 23:26:33 INF] API de AuthService está ejecutándose en http://localhost:5296. Endpoint de salud: http://localhost:5296/api/v1/health {"SourceContext":"Program"}
+[2026-05-01 23:28:49 WRN] Failed to determine the https port for redirect. {"EventId":{"Id":3,"Name":"FailedToDeterminePort"},"SourceContext":"Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware","RequestId":"0HNL81EOCG6S1:00000001","RequestPath":"/api/v1/auth/login","ConnectionId":"0HNL81EOCG6S1"}
+[2026-05-01 23:28:49 INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 32.4842 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNL81EOCG6S1:00000001","ConnectionId":"0HNL81EOCG6S1"}
+[2026-05-01 23:28:50 INF] HTTP POST /api/v1/auth/login responded 400 in 1020.2202 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNL81EOCG6S1:00000002","ConnectionId":"0HNL81EOCG6S1"}
+[2026-05-01 23:28:52 INF] HTTP POST /api/v1/auth/login responded 400 in 18.5324 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNL81EOCG6S1:00000003","ConnectionId":"0HNL81EOCG6S1"}
+[2026-05-01 23:28:53 INF] HTTP POST /api/v1/auth/login responded 400 in 24.2879 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNL81EOCG6S1:00000004","ConnectionId":"0HNL81EOCG6S1"}
+[2026-05-01 23:38:44 INF] HTTP GET /api/v1/health responded 200 in 97.3829 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNL81EOCG6S2:00000001","ConnectionId":"0HNL81EOCG6S2"}

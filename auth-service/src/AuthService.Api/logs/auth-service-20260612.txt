@@ -1,0 +1,22 @@
+[2026-06-12 01:40:45 INF] Verificando conexión a la base de datos... {"SourceContext":"Program"}
+[2026-06-12 01:40:50 INF] Base de datos lista. Ejecutando datos semilla... {"SourceContext":"Program"}
+[2026-06-12 01:40:51 INF] Inicialización de base de datos completada exitosamente {"SourceContext":"Program"}
+[2026-06-12 01:40:52 INF] API de AuthService está ejecutándose en http://localhost:5296. Endpoint de salud: http://localhost:5296/api/v1/health {"SourceContext":"Program"}
+[2026-06-12 01:44:12 INF] Verificando conexión a la base de datos... {"SourceContext":"Program"}
+[2026-06-12 01:44:15 INF] Base de datos lista. Ejecutando datos semilla... {"SourceContext":"Program"}
+[2026-06-12 01:44:16 INF] Inicialización de base de datos completada exitosamente {"SourceContext":"Program"}
+[2026-06-12 01:44:17 INF] API de AuthService está ejecutándose en http://0.0.0.0:5296. Endpoint de salud: http://0.0.0.0:5296/api/v1/health {"SourceContext":"Program"}
+[2026-06-12 01:46:38 WRN] Failed to determine the https port for redirect. {"EventId":{"Id":3,"Name":"FailedToDeterminePort"},"SourceContext":"Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware","RequestId":"0HNM8AQTK3ULA:00000001","RequestPath":"/api/v1/health","ConnectionId":"0HNM8AQTK3ULA"}
+[2026-06-12 01:46:39 INF] HTTP GET /api/v1/health responded 200 in 1076.9060 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNM8AQTK3ULA:00000001","ConnectionId":"0HNM8AQTK3ULA"}
+[2026-06-12 01:48:54 INF] HTTP OPTIONS /api/v1/auth/login responded 204 in 63.0890 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNM8AQTK3ULC:00000001","ConnectionId":"0HNM8AQTK3ULC"}
+[2026-06-12 01:48:56 INF] User login succeeded {"EventId":{"Id":1002,"Name":"LogUserLoggedIn"},"SourceContext":"AuthService.Application.Services.AuthService","ActionId":"828c697b-bc2d-4902-810e-b9a4c405ccb6","ActionName":"AuthService.Api.Controllers.AuthController.Login (AuthService.Api)","RequestId":"0HNM8AQTK3ULE:00000001","RequestPath":"/api/v1/auth/login","ConnectionId":"0HNM8AQTK3ULE"}
+[2026-06-12 01:48:56 INF] HTTP POST /api/v1/auth/login responded 200 in 1739.8139 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNM8AQTK3ULE:00000001","ConnectionId":"0HNM8AQTK3ULE"}
+[2026-06-12 01:49:19 INF] HTTP OPTIONS /api/v1/auth/profile responded 204 in 4.3537 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNM8AQTK3ULC:00000002","ConnectionId":"0HNM8AQTK3ULC"}
+[2026-06-12 01:49:19 INF] HTTP OPTIONS /api/v1/auth/profile responded 204 in 0.2240 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNM8AQTK3ULF:00000001","ConnectionId":"0HNM8AQTK3ULF"}
+[2026-06-12 01:49:20 INF] HTTP GET /api/v1/auth/profile responded 200 in 132.3613 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNM8AQTK3ULD:00000001","ConnectionId":"0HNM8AQTK3ULD"}
+[2026-06-12 01:49:20 INF] HTTP GET /api/v1/auth/profile responded 200 in 472.6541 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNM8AQTK3ULE:00000002","ConnectionId":"0HNM8AQTK3ULE"}
+[2026-06-12 01:49:21 INF] HTTP GET /api/v1/auth/profile responded 200 in 8.8483 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNM8AQTK3ULG:00000001","ConnectionId":"0HNM8AQTK3ULG"}
+[2026-06-12 01:49:21 INF] HTTP GET /api/v1/auth/profile responded 200 in 9.0220 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNM8AQTK3ULG:00000002","ConnectionId":"0HNM8AQTK3ULG"}
+[2026-06-12 01:49:36 INF] User login succeeded {"EventId":{"Id":1002,"Name":"LogUserLoggedIn"},"SourceContext":"AuthService.Application.Services.AuthService","ActionId":"828c697b-bc2d-4902-810e-b9a4c405ccb6","ActionName":"AuthService.Api.Controllers.AuthController.Login (AuthService.Api)","RequestId":"0HNM8AQTK3ULG:00000003","RequestPath":"/api/v1/auth/login","ConnectionId":"0HNM8AQTK3ULG"}
+[2026-06-12 01:49:36 INF] HTTP POST /api/v1/auth/login responded 200 in 935.5856 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"0HNM8AQTK3ULG:00000003","ConnectionId":"0HNM8AQTK3ULG"}
+[2026-06-12 01:51:32 WRN] As of ""2026-06-12T07:51:31.6341447+00:00"", the heartbeat has been running for ""00:00:01.3700066"" which is longer than ""00:00:01"". This could be caused by thread pool starvation. {"EventId":{"Id":22,"Name":"HeartbeatSlow"},"SourceContext":"Microsoft.AspNetCore.Server.Kestrel"}
