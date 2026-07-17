@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rLDgleYtJZE=",
+  "dgSpecHash": "URsf8BNDE74=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Informatica\\Downloads\\StockWise\\auth-service\\src\\AuthService.Api\\AuthService.Api.csproj",
+  "projectFilePath": "C:\\Users\\Informatica\\Documents\\StockWise\\auth-service\\src\\AuthService.Api\\AuthService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Informatica\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Informatica\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

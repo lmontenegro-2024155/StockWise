@@ -1,2 +1,5 @@
 packages:
   - 'frontend'
+  - 'auth-service'
+  - 'services/service-a'
+  - 'services/service-b'
