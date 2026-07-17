@@ -2,7 +2,7 @@ version: '3.9'
 services:
   mongodb:
     image: mongo:7.0
-    container_name: canela-urbana-mongo
+    container_name: stockwise-mongo
     restart: unless-stopped
     ports:
       - "27017:27017"
