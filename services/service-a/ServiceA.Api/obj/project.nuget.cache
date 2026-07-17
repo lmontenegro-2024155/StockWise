@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tx0Z412YRyA=",
+  "dgSpecHash": "2P7l575d4uk=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Informatica\\Desktop\\Sistema de inventario\\services\\service-a\\ServiceA.Api\\ServiceA.Api.csproj",
+  "projectFilePath": "C:\\Users\\Informatica\\Downloads\\StockWise\\services\\service-a\\ServiceA.Api\\ServiceA.Api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
