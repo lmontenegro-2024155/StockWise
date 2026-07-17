@@ -1,0 +1,15 @@
+{
+  "name": "canela-urbana-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Monorepo inicial para el sprint 1 del sistema de inventario",
+  "scripts": {
+    "dev:frontend": "pnpm --dir frontend run dev",
+    "dev:auth": "dotnet run --project auth-service/src/AuthService.Api/AuthService.Api.csproj",
+    "dev:service-a": "dotnet run --project services/service-a/ServiceA.Api/ServiceA.Api.csproj",
+    "dev:service-b": "dotnet run --project services/service-b/ServiceB.Api/ServiceB.Api.csproj"
+  },
+  "workspaces": [
+    "frontend"
+  ]
+}
